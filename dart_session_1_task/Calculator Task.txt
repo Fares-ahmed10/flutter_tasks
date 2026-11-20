@@ -1,0 +1,11 @@
+Fatma want to make a calculator , 
+Your task is to write a Dart program that:
+Takes two numbers from the user.
+Takes an operation character: +, -, *, or / .
+Displays the result.
+
+Sample Run
+    Enter first number: 10
+    Enter second number: 5
+    Enter operation(+, -, *, /): *
+    Result: 50
